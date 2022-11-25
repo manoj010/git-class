@@ -1,0 +1,5 @@
+git checkout -b <branch-name> => change branch 
+
+glog => commit history
+
+git merge <branch-name> => merge
